@@ -93,3 +93,8 @@ Ctrl + SHift + V
 8. Using 'mark' tags around text will <mark>highlight</mark> it (useful for critical things).
 9. Indentations DO affect how text is output.
 - Using a single hyphen will create a bullet point.
+
+<br>
+<br>
+
+<p align="center">| Yuugen64 |</p>
